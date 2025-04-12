@@ -13,7 +13,7 @@ const Login = ({ providers }) => {
           href="https://th.bing.com/th/id/R.fe4bfd3bd082e4fd4d6aca3f255925b1?rik=Hwa9QxFb3%2bIjtw&pid=ImgRaw&r=0"
         />
       </Head>
-      <img
+      <img 
         className="w-52 mb-5"
         src="https://th.bing.com/th/id/R.fe4bfd3bd082e4fd4d6aca3f255925b1?rik=Hwa9QxFb3%2bIjtw&pid=ImgRaw&r=0"
         alt="images"
