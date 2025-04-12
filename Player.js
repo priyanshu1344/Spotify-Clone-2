@@ -28,7 +28,7 @@ const Player = () => {
         .getMyCurrentPlayingTrack()
         .then((data) => {
           console.log("Now Playing", data.body?.item);
-          setCurrentIdTrack(data.body.item?.id);
+          setCurrentIdTrack(data.body.item?.id); 
 
           spotifyApi
             .getMyCurrentPlaybackState()
